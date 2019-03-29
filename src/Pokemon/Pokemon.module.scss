@@ -1,0 +1,30 @@
+.pokemonCard {
+  overflow: hidden;
+  padding: 15px;
+  border-radius: 10px;
+  background: #272784;
+  color: #fff;
+  width: 250px;
+  text-align: center;
+  box-shadow: black 0 1px 3px;
+
+  h1 {
+    font-size: 1.3em;
+    text-transform: capitalize;
+  }
+  h2 {
+    font-size: 1em;
+    margin-top: 0;
+  }
+  img {
+    width: 96px;
+    float: left;
+    margin-right: 15px;
+  }
+  .attributes {
+    text-align: left;
+  }
+  .error {
+    color: #ff9f9f;
+  }
+}

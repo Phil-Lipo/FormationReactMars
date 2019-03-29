@@ -1,0 +1,12 @@
+{
+  "lang": "English",
+  "title": "Welcome",
+  "button": "Click me!",
+  "counter.play": "Play",
+  "counter.pause": "Pause",
+  "counter.stop": "Stop",
+  "counter.plus10": "➕10s",
+  "students.average": "Students' average:",
+  "pokemon.height": "Height:",
+  "pokemon.weight": "Weight:"
+}

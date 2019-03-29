@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.signup label {
+  display: block;
+  margin-bottom: 10px;
+}
+.signup input,
+.signup select {
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px inset #eee;
+}
+.signup input.error {
+  border-color: red;
+}
+.signup div.error {
+  color: red;
+  margin-top: 5px;
+  font-size: 0.9em;
+}
